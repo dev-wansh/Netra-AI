@@ -3,7 +3,7 @@
   <img src="LOGO.png" alt="Netra AI Logo" width="180">
 </p>
 
-<h1 align="center">Citizen Fraud Shield</h1>
+<h1 align="center">Netra AI</h1>
 
 <p align="center">
   AI-Powered Multilingual Fraud Risk Screening Platform
