@@ -19,7 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/ce786f6a-e2fa-48ac-be2f-fe2c3
 3. Run the app:
    `npm run dev`
 
-# Citizen Fraud Shield
+# Netra AI
 
 AI-powered multilingual fraud risk screening and citizen safety platform.
 
