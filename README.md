@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="netra-logo.png" alt="Netra AI Logo" width="180">
+  <img src="LOGO.png" alt="Netra AI Logo" width="180">
 </p>
 
 <h1 align="center">Citizen Fraud Shield</h1>
