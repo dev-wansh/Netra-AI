@@ -50,8 +50,3 @@ Citizen Fraud Shield helps users analyse suspicious calls, WhatsApp messages, an
 
 - Node.js
 - Gemini API Key
-
-### Install Dependencies
-
-```bash
-npm install
