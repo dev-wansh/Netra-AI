@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/ce786f6a-e2fa-48ac-be2f-fe2c3f94961c
+View Netra AI-https://netra-ai-dsxg.onrender.com
 
 ## Run Locally
 
