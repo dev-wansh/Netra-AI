@@ -1,0 +1,6 @@
+{
+  "name": "Netra AI",
+  "description": "An AI-powered Indian cyber fraud detection application to identify digital arrest scams, WhatsApp frauds, bank scams, and malicious threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
