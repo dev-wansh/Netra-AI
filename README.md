@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="netra-logo.png" alt="Netra AI Logo" width="180">
+</p>
+
+<h1 align="center">Citizen Fraud Shield</h1>
+
+<p align="center">
+  AI-Powered Multilingual Fraud Risk Screening Platform
+</p>
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
