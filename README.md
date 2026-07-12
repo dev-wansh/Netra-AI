@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View Netra AI-https://netra-ai-dsxg.onrender.com
+View Netra AI- https://netra-ai-dsxg.onrender.com
 
 ## Run Locally
 
