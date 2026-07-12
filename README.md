@@ -46,3 +46,5 @@ Citizen Fraud Shield helps users analyse suspicious calls, WhatsApp messages, an
 
 - Node.js
 - Gemini API Key
+
+> Note: The prototype is hosted on a free development server. Initial loading may take up to 60 seconds if the server is inactive.
