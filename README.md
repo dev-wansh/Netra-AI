@@ -30,7 +30,7 @@ View Netra AI- https://netra-ai-dsxg.onrender.com
 
 AI-powered multilingual fraud risk screening and citizen safety platform.
 
-Citizen Fraud Shield helps users analyse suspicious calls, WhatsApp messages, and currency note images. The platform provides AI-assisted risk assessments, explains possible warning signs, and offers general cyber fraud reporting guidance.
+Netra AI helps users analyse suspicious calls, WhatsApp messages, and currency note images. The platform provides AI-assisted risk assessments, explains possible warning signs, and offers general cyber fraud reporting guidance.
 
 ## Features
 
