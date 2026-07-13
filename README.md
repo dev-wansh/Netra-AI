@@ -58,8 +58,14 @@ Netra AI helps users analyse suspicious calls, WhatsApp messages, and currency n
 - Node.js
 - Gemini API Key
 
-##
+
+## Team
+
 🚀 This project was developed as part of the ET AI Hackathon 2.0. Netra AI is an AI-powered multilingual fraud risk screening platform designed to improve citizen safety by helping users analyze suspicious calls, WhatsApp messages, and currency notes. Through explainable AI, multilingual support, and cyber awareness features, the project demonstrates how AI can empower users to identify potential fraud risks and respond with greater confidence.
+
+Team Members:
+- Wansh (@dev-wansh)
+- Yash (@yashekade)
 
 
 ##
